@@ -6,6 +6,7 @@ One function per operation, in order.
 """
 # GitHub link:https://github.com/schlagetermarco/lab11-MS-ASK
 # Partner 1 : Marco Schlageter
+# Partner 2 : Akash Sai Kodavati
 
 import math
 
