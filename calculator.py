@@ -1,13 +1,12 @@
+# GitHub link:https://github.com/schlagetermarco/lab11-MS-ASK
+# Partner 1 : Marco Schlageter
+# Partner 2 : Akash Kodavati
 """
 calculator.py
 - Defines functions used to create a simple calculator
 
 One function per operation, in order.
 """
-# GitHub link:https://github.com/schlagetermarco/lab11-MS-ASK
-# Partner 1 : Marco Schlageter
-# Partner 2 : Akash Kodavati
-
 import math
 
 def square_root(a):
