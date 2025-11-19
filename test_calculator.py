@@ -3,7 +3,7 @@ from calculator import *
 
 # GitHub link:https://github.com/schlagetermarco/lab11-MS-ASK
 # Partner 1 : Marco Schlageter
-# Partner 2 : Akash Sai Kodavati
+# Partner 2 : Akash Kodavati
 
 
 class TestCalculator(unittest.TestCase):
